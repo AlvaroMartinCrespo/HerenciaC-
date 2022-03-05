@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "821719a3-2c6c-4000-90ae-1cd931a8ea22": {
+      "ProjectGuid": "821719a3-2c6c-4000-90ae-1cd931a8ea22",
+      "DisplayName": "ProyectoHerencia",
+      "ColorIndex": 0
+    },
+    "94aca1a0-ca76-4fe1-9b7e-242ef950c02b": {
+      "ProjectGuid": "94aca1a0-ca76-4fe1-9b7e-242ef950c02b",
+      "DisplayName": "Plantilla",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
